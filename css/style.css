@@ -1,0 +1,11 @@
+.block_img1 {
+	margin-top: 0;
+	text-align: center;
+	display: block;
+}
+	
+	.img1 {
+	width: 25%;
+	height: 25%;
+	object-fit: cover;
+	}
